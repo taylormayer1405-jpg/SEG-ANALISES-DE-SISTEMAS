@@ -1,0 +1,40 @@
+Loja de Roupas Manu Modas
+Integrantes do Grupo: Jorge Gabriel, Taylor, Edualysson Santos, Jennifer Feil
+
+Objetivo:
+Organizar os requisitos do cliente fornecidos pela entrevista do cliente.
+
+Requisitos:
+1-Expor produtos da loja
+
+2-Dividir produtos por categoria
+
+3-Registro de contato do cliente
+
+4-Cadastro completo dos clientes
+
+5-Sistema de entrada e saída de notas
+
+6-Sistema de cancelamento de notas
+
+Tabelas:
+
+1-Produtos
+ >Categorias
+2-Clientes
+ >CPF
+ >Nome
+ >Email
+ >Data de nascimento
+ >Número de celular
+ >Endereço
+3-Serviços
+ >Nome do Serviço
+ >Preços
+ Pedidos de clientes
+
+4-Vendas
+ >Status da vendas
+  >Concluída
+  >Em andamento
+  >Cancelada
