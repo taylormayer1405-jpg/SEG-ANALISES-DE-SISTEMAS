@@ -1,5 +1,5 @@
 Loja de Roupas Manu Modas
-Integrantes do Grupo: Jorge Gabriel, Taylor, Edualysson Santos, Jennifer Feil
+Integrantes do Grupo: Jorge Gabriel, Taylor Mayer, Edualysson Santos, Jennifer Feil
 
 Objetivo:
 Organizar os requisitos do cliente fornecidos pela entrevista do cliente.
@@ -22,6 +22,7 @@ Tabelas:
 1-Produtos
  >Categorias
  >Valores
+ >Quantidade em estoque
 2-Clientes
  >CPF
  >Nome_Cliente
@@ -32,9 +33,12 @@ Tabelas:
 3-Serviços
  >Nome_Serviço
  >Preços
- >Pedidos de clientes
 4-Vendas
- >Status da venda
+ >CPF
+ >ID_Produto
+ >Quantidade
+ >Valor total
+ 5-Status da venda
   >Concluída
   >Em andamento
   >Cancelada 
