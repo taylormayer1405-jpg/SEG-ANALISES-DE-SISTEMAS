@@ -21,20 +21,20 @@ Tabelas:
 
 1-Produtos
  >Categorias
+ >Valores
 2-Clientes
  >CPF
- >Nome
+ >Nome_Cliente
  >Email
  >Data de nascimento
  >Número de celular
  >Endereço
 3-Serviços
- >Nome do Serviço
+ >Nome_Serviço
  >Preços
- Pedidos de clientes
-
+ >Pedidos de clientes
 4-Vendas
- >Status da vendas
+ >Status da venda
   >Concluída
   >Em andamento
-  >Cancelada
+  >Cancelada 
